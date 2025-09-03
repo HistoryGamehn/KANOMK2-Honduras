@@ -60,6 +60,18 @@ Nota: En caso que los enlaces no te funcionen buscalos por [google](https://www.
 
 - 🗣️ [Replay btbb99 campeon video reaccion (USA)](https://www.youtube.com/watch?v=BXTbrBFh6io&t=4s)
   Reconocimiento del Campeon de Estados Unidos a Kanomk2 considerandolo el mejor de Mortal Kombat II
+- 🗣️ [Replay oficial – KANOMK2 vs Kung Leo (CL)](https://archive.org/details/1641344210986-7966)
+  ## ⚔️ Enfrentamiento destacado: KANOMK2 vs Kung Leo 
+
+Uno de los duelos más emblemáticos en la escena online fue el choque entre **KANOMK2** y **Kung Leo**, dos estilos enfrentados en una batalla que dejó huella. Mientras Kung Leo apostaba por spam y lectura reactiva, KANOMK2 respondió con presión agresiva, dominio técnico y una ejecución que rozaba lo imposible.
+
+> Resultado: victoria para KANOMK2  
+> *“Dos tipos, dos estilos... pero al final, la técnica presión agresiva gana.”*
+
+Este combate no solo confirmó la superioridad táctica de KANOMK2, sino que **demostró por qué es considerado una leyenda**. Su lectura de frames y su capacidad para adaptarse en tiempo real lo colocan en una categoría aparte.  
+Fue más que una victoria: fue un **Llego el verdadero Rey**.
+
+Este enfrentamiento ha sido citado en debates técnicos y forma parte del archivo histórico que documenta cómo Honduras tiene jugadores de alto nivel en *Mortal Kombat II*.
 ---
 
 ## 🧠 Legado y documentación
@@ -105,7 +117,7 @@ Desde Tegucigalpa hasta foros europeos, pasando por torneos en Brasil, Argentina
 
 ## 🔥 Honduras: nace la leyenda viviente
 
-KANOMK2 no es solo un nombre en la historia del gaming hondureño. Es **la leyenda viviente de Honduras**, el jugador que redefinió estrategias, que rompió límites técnicos, y que puso a Honduras en el mapa mundial de *Mortal Kombat II*.  
+KANOMK2 no es solo un nombre en la historia del gaming hondureño. Es **la leyenda viviente de Honduras**, el jugador que redefinió estrategias, que rompió límites técnicos, y es el unico que puso a Honduras en el mapa mundial de *Mortal Kombat II*.  
 Su legado no termina en los torneos: **vive en cada ejecución perfeccionada, en cada glitch documentado, en cada testimonio que lo reconoce como el referente máximo**.
 
 **Aquí no se exagera. Se documenta. Se honra. Se inmortaliza.**
