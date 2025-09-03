@@ -68,6 +68,7 @@ Repositorio técnico y documental alojado en [kanomk2.orgfree.com](https://kanom
 ---
 ## ⚔️ Enfrentamiento destacado: KANOMK2 vs Kung Leo
 
+- 🗣️ [Replay KANOMK2 vs Kung Leo (CL)](https://www.youtube.com/watch?v=TMUwVdP1Xo0&t=7s)
 Uno de los duelos más emblemáticos en la escena online fue el choque entre **KANOMK2** y **Kung Leo**, dos estilos enfrentados en una batalla que dejó huella. Mientras Kung Leo apostaba por spam y lectura reactiva, KANOMK2 respondió con presión agresiva, dominio técnico y una ejecución que rozaba lo imposible.
 
 > Resultado: victoria para KANOMK2  
