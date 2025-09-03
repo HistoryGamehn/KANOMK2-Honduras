@@ -61,7 +61,7 @@ Repositorio técnico y documental alojado en [kanomk2.orgfree.com](https://kanom
   Reconocimiento público por parte de la comunidad brasileña.
 
 ## 📣 Reacciones y mas
--     [TestYourMight)](https://testyourmight.com/threads/the-elite-thread.74187/post-2678560)                                                                                         
+-    [TestYourMight)](https://testyourmight.com/threads/the-elite-thread.74187/post-2678560)                                                                                         
 - 🗣️ [Replay btbb99 campeon video reacción (USA)](https://www.youtube.com/watch?v=BXTbrBFh6io&t=4s)  
   Reconocimiento del campeón de Estados Unidos a KANOMK2 como el mejor jugador de Mortal Kombat II.
 
