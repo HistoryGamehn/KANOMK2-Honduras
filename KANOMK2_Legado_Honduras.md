@@ -40,7 +40,7 @@ Competencia en línea organizada por [Imko](https://imko.superforo.net), con par
 ### 🇦🇷 Argentina – Doble torneo latinoamericano (2010)  
 Dos eventos consecutivos donde se validaron las técnicas hondureñas en juegos arcade emulados por MAME32k. Se documentaron ejecuciones perfectas, incluyendo los mid-height fans de Kitana ya perfeccionados.
 
-### 🇺🇸 USA – Torneo USADAW (2010)  
+### 🇺🇸 USA – Torneo USADAWMK (2010)  
 Competencia en línea organizada por [usadawmk.com](https://usadawmk.com), donde KANOMK2 fue invitado como referente técnico y máximo representante de Latinoamérica. Se realizaron pruebas cruzadas entre versiones emuladas.
 
 ### 🇪🇺 Europa – Torneo NativeMK (2011)  
@@ -50,6 +50,14 @@ Evento europeo registrado en [foronativemk.org](http://foronativemk.org), con pa
 Repositorio técnico y documental alojado en [kanomk2.orgfree.com](https://kanomk2.orgfree.com). Incluye referencias visuales, testimonios y análisis de torneos online bien ganados.
 Nota: En caso que los enlaces no te funcionen buscalos por [google](https://www.google.com/search?q=kanomk2.orgfree&rlz=1C2MRUS_esHN1102HN1102&sca_esv=50ae17e33ffbd3d5&sxsrf=AE3TifNzCIko4cdaFdmmna4ISbQbVTqGTw%3A1756896060280&source=hp&ei=PBu4aMCkD82OwbkPyfDrsAU&iflsig=AOw8s4IAAAAAaLgpTKxa4tIA7MFzq289hfAkbHMBjHa0&ved=0ahUKEwjAstDss7yPAxVNRzABHUn4GlYQ4dUDCBc&uact=5&oq=kanomk2.orgfree&gs_lp=Egdnd3Mtd2l6Ig9rYW5vbWsyLm9yZ2ZyZWUyBxAjGLACGCdI7lRQ1w1Y3lNwBXgAkAEAmAGNAaABsQ6qAQQxMS44uAEDyAEA-AEBmAIMoALWBqgCCsICBxAjGCcY6gLCAg0QIxjwBRgnGMkCGOoCwgIEECMYJ8ICCBAAGIAEGLEDwgIIEC4YgAQYsQPCAgsQABiABBixAxiDAcICBRAAGIAEwgIFEC4YgATCAg4QLhiABBixAxiDARiKBcICERAuGIAEGLEDGNEDGIMBGMcBwgIKEAAYgAQYFBiHAsICChAuGIAEGBQYhwLCAgsQLhiABBjRAxjHAcICCxAuGIAEGMcBGK8BwgIIEC4YgAQYywHCAg4QLhiABBjHARjLARivAcICCBAAGIAEGMsBwgIKEAAYgAQYChjLAcICChAuGIAEGAoYywHCAgcQLhiABBgKwgIHEAAYgAQYCsICBxAuGIAEGA3CAggQABgKGA0YHsICBhAAGA0YHsICCBAAGAgYDRgewgIFEAAY7wWYAwXxBSnWq6fL9FmqkgcEMTEuMaAHpH2yBwM5LjG4B88GwgcFMi45LjHIBxY&sclient=gws-wiz)
 
+## 🌐 Reconocimientos internacionales
+
+- 🗣️ [Replay oficial – KANOMK2 vs Kensidj (USA)](https://archive.org/details/1641344210986-7966)  
+  Enfrentamiento amistoso entre el jugador hondureño y el estadounidense. Validación directa del estilo y ejecución de KANOMK2.
+
+- 🇧🇷 [Homenaje Brasil 2009 – Comunidad Orkut]([https://es.wikipedia.org/wiki/KANOMK2](https://www.youtube.com/watch?v=iWv8BKHko04&t=20s))  
+  Reconocimiento público por parte de la comunidad brasileña, quienes organizaron un torneo en honor a KANOMK2 por su impacto técnico en Mortal Kombat II.
+- 🗣️ [Replay btbb99 campeon video reaccion (USA)]([https://archive.org/details/1641344210986-7966](https://www.youtube.com/watch?v=BXTbrBFh6io&t=4s)) 
 ---
 
 ## 🧠 Legado y documentación
