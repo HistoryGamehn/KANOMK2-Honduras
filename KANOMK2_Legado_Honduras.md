@@ -41,7 +41,7 @@ Competencia en línea organizada por [Imko](https://imko.superforo.net), con par
 Dos eventos consecutivos donde se validaron las técnicas hondureñas en juegos arcade emulados por MAME32k. Se documentaron ejecuciones perfectas, incluyendo los mid-height fans de Kitana ya perfeccionados.
 
 ### 🇺🇸 USA – Torneo USADAW (2010)  
-Competencia en línea organizada por [usadaw.com](https://usadaw.com), donde KANOMK2 fue invitado como referente técnico y máximo representante de Latinoamérica. Se realizaron pruebas cruzadas entre versiones emuladas.
+Competencia en línea organizada por [usadawmk.com](https://usadawmk.com), donde KANOMK2 fue invitado como referente técnico y máximo representante de Latinoamérica. Se realizaron pruebas cruzadas entre versiones emuladas.
 
 ### 🇪🇺 Europa – Torneo NativeMK (2011)  
 Evento europeo registrado en [foronativemk.org](http://foronativemk.org), con participación de jugadores de España, Francia, Italia, Holanda, Rusia y Grecia. Las técnicas hondureñas fueron replicadas y documentadas por archivistas europeos.
