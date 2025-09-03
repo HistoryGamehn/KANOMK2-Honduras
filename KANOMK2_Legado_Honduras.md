@@ -55,7 +55,7 @@ Nota: En caso que los enlaces no te funcionen buscalos por [google](https://www.
 - 🗣️ [Replay oficial – KANOMK2 vs Kensidj (USA)](https://archive.org/details/1641344210986-7966)  
   Enfrentamiento amistoso entre el jugador hondureño y el estadounidense. Validación directa del estilo y ejecución de KANOMK2.
 
-- 🇧🇷 [Homenaje Brasil 2009 – Comunidad Orkut]([https://es.wikipedia.org/wiki/KANOMK2](https://www.youtube.com/watch?v=iWv8BKHko04&t=20s) 
+- 🇧🇷 [Homenaje Brasil 2009 – Comunidad Orkut](Torneo Brasil](https://www.youtube.com/watch?v=iWv8BKHko04&t=20s) 
   Reconocimiento público por parte de la comunidad brasileña, quienes organizaron un torneo en honor a KANOMK2 por su impacto técnico en Mortal Kombat II.
 - 🗣️ [Replay btbb99 campeon video reaccion (USA)]([https://archive.org/details/1641344210986-7966](https://www.youtube.com/watch?v=BXTbrBFh6io&t=4s)) 
 ---
