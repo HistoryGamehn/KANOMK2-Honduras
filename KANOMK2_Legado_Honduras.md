@@ -52,7 +52,7 @@ Repositorio técnico y documental alojado en [kanomk2.orgfree.com](https://kanom
 
 ---
 
-## 🎖️ Reconocimientos por torneos
+## 🎖️ Batallas y Homenajes
 
 - 🗣️ [Replay oficial – KANOMK2 vs Kensidj (USA)](https://archive.org/details/1641344210986-7966)  
   Enfrentamiento amistoso entre el jugador hondureño y el estadounidense. Validación directa del estilo y ejecución de KANOMK2.
@@ -60,8 +60,8 @@ Repositorio técnico y documental alojado en [kanomk2.orgfree.com](https://kanom
 - 🇧🇷 [Homenaje Brasil 2009 – Comunidad Orkut](https://www.youtube.com/watch?v=iWv8BKHko04&t=20s)  
   Reconocimiento público por parte de la comunidad brasileña.
 
-## 📣 Reacciones y homenajes
-
+## 📣 Reacciones y mas
+-     [TestYourMight)](https://testyourmight.com/threads/the-elite-thread.74187/post-2678560)                                                                                         
 - 🗣️ [Replay btbb99 campeon video reacción (USA)](https://www.youtube.com/watch?v=BXTbrBFh6io&t=4s)  
   Reconocimiento del campeón de Estados Unidos a KANOMK2 como el mejor jugador de Mortal Kombat II.
 
