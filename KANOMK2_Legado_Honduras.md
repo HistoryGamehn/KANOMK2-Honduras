@@ -20,7 +20,7 @@ Estas técnicas fueron confirmadas en torneos locales y redefinieron la ejecuci�
 
 ## 🏆 Impacto competitivo
 
-Las contribuciones de KANOMK2 redefinieron el estilo de juego en Tegucigalpa durante la segunda mitad de los años 90 y principios de los 2000. Su enfoque técnico obligó a otros competidores a adaptar sus estrategias, elevando el nivel de análisis y ejecución en la comunidad arcade.
+Las contribuciones de KANOMK2 redefinieron el estilo de juego en Tegucigalpa durante la segunda mitad de los años 95 y principios de los 2000. Su enfoque técnico obligó a otros competidores a adaptar sus estrategias, elevando el nivel de análisis y ejecución en la comunidad arcade.
 
 Fue el máximo ganador de torneos en arcade de *Mortal Kombat II*, con un total de **8 victorias** en diferentes plazas, entre ellas:  
 **Isla de la Fantasía**, **EYKO**, **CentroCity**, y **Plaza Los Castaños**.
