@@ -92,11 +92,6 @@ Este enfrentamiento ha sido citado en debates técnicos y forma parte del archiv
 
 ---
 
-## 🧩 Contribuciones
-
-Este archivo está abierto a investigadores, jugadores y archivistas que deseen aportar documentación adicional. Se aceptan pull requests, testimonios y análisis técnicos que refuercen la narrativa histórica.
-
----
 
 ## 🌍 Reconocimiento global y narrativa colectiva
 
@@ -108,9 +103,9 @@ Desde Tegucigalpa hasta foros europeos, pasando por torneos en Brasil, Argentina
 
 ## 🔥 Honduras: nace la leyenda viviente
 
-KANOMK2 no es solo un nombre en la historia del gaming hondureño. Es **la leyenda viviente de Honduras**, el jugador que redefinió estrategias, que rompió límites técnicos, y es el único que puso a Honduras en el mapa mundial de *Mortal Kombat II*.  
+KANOMK2 no es solo un nombre en la historia del Mortal hondureño. Es el jugador que redefinió estrategias, que rompió límites técnicos, y es el único que puso a Honduras en el mapa mundial de *Mortal Kombat II*.  
 Su legado no termina en los torneos: **vive en cada ejecución perfeccionada, en cada glitch documentado, en cada testimonio que lo reconoce como el referente máximo**.
-
+todos los catrachos y sus seguidores esperan que regrese de ese largo retiro, nosotros tambien, para seguirnos deleitando del jugador mas emblematico de *Mortal Kombat II*
 **Aquí no se exagera. Se documenta. Se honra. Se inmortaliza.**
 
 ---
@@ -122,7 +117,6 @@ Este repositorio forma parte de un archivo digital que busca reconocer figuras c
 
 ## 🧭 Cómo citar este archivo
 
-Este documento forma parte del archivo histórico de Mortal Kombat II en Honduras. Para citarlo en investigaciones, artículos o repositorios, usar el siguiente formato:
-
+Este archivo está abierto a investigadores, jugadores y archivistas que deseen aportar documentación adicional. Se aceptan pull requests, testimonios y análisis técnicos que refuercen la narrativa histórica.
 
 
