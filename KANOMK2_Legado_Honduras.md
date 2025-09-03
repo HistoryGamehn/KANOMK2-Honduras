@@ -113,14 +113,15 @@ Su legado no termina en los torneos: **vive en cada ejecución perfeccionada, en
 **Aquí no se exagera. Se documenta. Se honra. Se inmortaliza.**
 
 ---
-
-## 🧭 Cómo citar este archivo
-
-Este documento forma parte del archivo histórico de Mortal Kombat II en Honduras. Para citarlo en investigaciones, artículos o repositorios, usar el siguiente formato:
-
 > ## 🧠 Legado y documentación
 
 El legado de KANOMK2 ha sido preservado por [@HistoryGameHn](https://github.com/HistoryGameHn), quien ha recopilado testimonios, archivos técnicos y referencias visuales como parte de un esfuerzo por documentar la historia gamer hondureña.
 
 Este repositorio forma parte de un archivo digital que busca reconocer figuras clave en la evolución de los videojuegos en Centroamérica y Sudamérica.
+
+## 🧭 Cómo citar este archivo
+
+Este documento forma parte del archivo histórico de Mortal Kombat II en Honduras. Para citarlo en investigaciones, artículos o repositorios, usar el siguiente formato:
+
+
 
