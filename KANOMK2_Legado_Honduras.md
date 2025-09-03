@@ -48,6 +48,7 @@ Evento europeo registrado en [foronativemk.org](http://foronativemk.org), con pa
 
 ### 🌐 Archivo digital – kanomk2.orgfree.com (2011–2012)  
 Repositorio técnico y documental alojado en [kanomk2.orgfree.com](https://kanomk2.orgfree.com). Incluye referencias visuales, testimonios y análisis de torneos online bien ganados.
+Nota: En caso que los enlaces no te funcionen buscalos por [google]([https://kanomk2.orgfree.com](https://www.google.com/search?q=kanomk2.orgfree&rlz=1C2MRUS_esHN1102HN1102&sca_esv=50ae17e33ffbd3d5&sxsrf=AE3TifNzCIko4cdaFdmmna4ISbQbVTqGTw%3A1756896060280&source=hp&ei=PBu4aMCkD82OwbkPyfDrsAU&iflsig=AOw8s4IAAAAAaLgpTKxa4tIA7MFzq289hfAkbHMBjHa0&ved=0ahUKEwjAstDss7yPAxVNRzABHUn4GlYQ4dUDCBc&uact=5&oq=kanomk2.orgfree&gs_lp=Egdnd3Mtd2l6Ig9rYW5vbWsyLm9yZ2ZyZWUyBxAjGLACGCdI7lRQ1w1Y3lNwBXgAkAEAmAGNAaABsQ6qAQQxMS44uAEDyAEA-AEBmAIMoALWBqgCCsICBxAjGCcY6gLCAg0QIxjwBRgnGMkCGOoCwgIEECMYJ8ICCBAAGIAEGLEDwgIIEC4YgAQYsQPCAgsQABiABBixAxiDAcICBRAAGIAEwgIFEC4YgATCAg4QLhiABBixAxiDARiKBcICERAuGIAEGLEDGNEDGIMBGMcBwgIKEAAYgAQYFBiHAsICChAuGIAEGBQYhwLCAgsQLhiABBjRAxjHAcICCxAuGIAEGMcBGK8BwgIIEC4YgAQYywHCAg4QLhiABBjHARjLARivAcICCBAAGIAEGMsBwgIKEAAYgAQYChjLAcICChAuGIAEGAoYywHCAgcQLhiABBgKwgIHEAAYgAQYCsICBxAuGIAEGA3CAggQABgKGA0YHsICBhAAGA0YHsICCBAAGAgYDRgewgIFEAAY7wWYAwXxBSnWq6fL9FmqkgcEMTEuMaAHpH2yBwM5LjG4B88GwgcFMi45LjHIBxY&sclient=gws-wiz))
 
 ---
 
