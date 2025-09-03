@@ -79,13 +79,7 @@ Fue más que una victoria: fue un **“Llegó el verdadero Rey”**.
 Este enfrentamiento ha sido citado en debates técnicos y forma parte del archivo histórico que documenta cómo Honduras tiene jugadores de alto nivel en *Mortal Kombat II*.
 ---
 
-## 🧠 Legado y documentación
 
-El legado de KANOMK2 ha sido preservado por [@HistoryGameHn](https://github.com/HistoryGameHn), quien ha recopilado testimonios, archivos técnicos y referencias visuales como parte de un esfuerzo por documentar la historia gamer hondureña.
-
-Este repositorio forma parte de un archivo digital que busca reconocer figuras clave en la evolución de los videojuegos en Centroamérica y Sudamérica.
-
----
 
 ## 📎 Enlaces relacionados
 
@@ -124,4 +118,9 @@ Su legado no termina en los torneos: **vive en cada ejecución perfeccionada, en
 
 Este documento forma parte del archivo histórico de Mortal Kombat II en Honduras. Para citarlo en investigaciones, artículos o repositorios, usar el siguiente formato:
 
-> HistoryGameHn. “KANOMK2: La leyenda viviente de Honduras
+> ## 🧠 Legado y documentación
+
+El legado de KANOMK2 ha sido preservado por [@HistoryGameHn](https://github.com/HistoryGameHn), quien ha recopilado testimonios, archivos técnicos y referencias visuales como parte de un esfuerzo por documentar la historia gamer hondureña.
+
+Este repositorio forma parte de un archivo digital que busca reconocer figuras clave en la evolución de los videojuegos en Centroamérica y Sudamérica.
+
