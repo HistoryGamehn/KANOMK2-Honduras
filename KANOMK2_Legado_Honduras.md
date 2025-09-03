@@ -35,7 +35,7 @@ KANOMK2 participó en múltiples torneos online entre 2008 y 2012, consolidando 
 Evento con participación de jugadores brasileños de alto nivel. KANOMK2 fue reconocido por su precisión técnica.
 
 ### 🌎 Torneo Latinoamericano (2009)  
-Primera edición regional con participación de Honduras, México, Argentina y Brasil. KANOMK2 y Marvirrasta representaron a Honduras con técnicas inéditas que influenciaron el metajuego regional.
+Competencia en línea organizada por [Imko](https://imko.superforo.net), con participación de Honduras, México, Argentina y Brasil. KANOMK2 y Marvirrasta representaron a Honduras con técnicas inéditas que influenciaron el metajuego regional.
 
 ### 🇦🇷 Argentina – Doble torneo latinoamericano (2010)  
 Dos eventos consecutivos donde se validaron las técnicas hondureñas en juegos arcade emulados por MAME32k. Se documentaron ejecuciones perfectas, incluyendo los mid-height fans de Kitana ya perfeccionados.
