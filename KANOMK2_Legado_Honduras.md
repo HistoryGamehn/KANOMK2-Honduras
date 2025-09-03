@@ -60,11 +60,12 @@ Este repositorio forma parte de un archivo digital que busca reconocer figuras c
 
 ---
 
-## 🧪 Versiones arcade verificadas
+## 🧪Movimientos en Versiones arcade y Online verificadas
 
-| Versión Arcade | Descubrimiento confirmado         | Notas                    |
-|----------------|-----------------------------------|--------------------------|
+| Versión Arcade | Descubrimiento confirmado         | Notas                     |
+|----------------|-----------------------------------|---------------------------|
 | MKII Rev 3.1   | Mid-height fireball de Liu Kang   | Confirmado en Tegucigalpa |
+| MKII Rev 3.1   | Multi-ground-pound de Jax         | Confirmado online         |
 
 ---
 
